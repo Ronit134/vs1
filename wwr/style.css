@@ -1,12 +1,58 @@
-body{
-    background-color: aquamarine;
+body{ text-align: center;
+    background-color: rgb(180, 172, 172);
 }
 header{
-    background-color: black;
+    background-color: rgb(126, 117, 117);
 }
 h1{
     font-size: 4em
 }
 P{font-size: 1em;
-color: blueviolet;
+color: rgb(15, 14, 15);
+}
+header {
+    text-align: center;
+}
+#background {
+    height: 725px;
+
+}
+nav a:hover{
+    background-color: rgb(240, 233, 233);;
+}
+nav a{
+    color: black;
+}
+.book:hover{
+    background-color: rgb(255, 255, 255);
+}
+.join:hover{
+    background-color: rgb(255, 249, 249);
+}
+.book {
+    color: black;
+}
+.join{
+    color: black;
+}
+.msg{
+    color: black;
+
+}
+footer{
+
+    background-color:rgb(126, 117, 117);
+}
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+footer p a {
+    text-decoration: none;
+}  
+
+.join{ 
+
+text-decoration: none;
 }
