@@ -1,0 +1,13 @@
+footer{
+    text-align: center;
+    background-color: rgb(82, 77, 77);
+    width: 1280px;
+}
+
+.f_img{
+    width: 300px;
+    border-radius: 50%;
+    border: 10px solid rgb(24, 22, 21);
+    
+
+}
