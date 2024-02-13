@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Jost:ital,wght@0,400;0,700;1,400&display=swap');
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(180, 172, 172);
+    font-family: Jost, Arial, serif;
+}
+
+header {
+    background-color: rgb(126, 117, 117);
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Roboto Slab', Arial, serif;
+}
+
+h1 {
+    font-size: 4em
+}
+
+P {
+    font-size: 1em;
+    color: rgb(15, 14, 15);
+}
+
+header {
+    text-align: center;
+}
+
+#background {
+    height: 725px;
+    background-color: #868582;
+
+}
+
+nav a:hover {
+    background-color: rgb(26, 24, 24);
+}
+
+nav a {
+    color: black;
+    text-align: center;
+}
+
+.book:hover {
+    background-color: rgb(255, 255, 255);
+}
+
+.join:hover {
+    background-color: rgb(255, 249, 249);
+}
+
+.book {
+    color: black;
+}
+
+.join {
+    color: black;
+}
+
+.msg {
+    color: black;
+
+}
+
+footer {
+
+    background-color: rgb(126, 117, 117);
+}
+
+nav a {
+    text-align: center;
+    color: #0e0d0d;
+    text-decoration: none;
+}
+
+footer p a {
+    text-decoration: none;
+}
+
+.join {
+
+    text-decoration: none;
+}
+
+nav {
+    color: #0e0d0d;
+}
+
+.card-img {
+    border: #0e0d0d solid 10px;
+    max-width: 500px;
+}
+
+.mountains {
+    border: #0e0d0d solid 10px;
+}
+
+#hero-msg h1,
+#hero-msg h4 {
+    text-align: center;
+
+}
+
+.button-box {
+    text-align: center;
+}
+
+#hero-img {
+    width: 100%;
+}
+
+.logo,
+.icon {
+    width: 80px;
+}
