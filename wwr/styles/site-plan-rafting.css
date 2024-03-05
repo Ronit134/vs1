@@ -59,8 +59,6 @@ header {
   text-align: center;
   color: var(--headline-color-on-color);
   background-color:rgb(49, 47, 47);
-  display: grid;
-  grid-template-columns: 150px auto;
 }
 header > h1, header > h2 {
   color: var(--headline-color-on-color);
