@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+ 
+h1{
+    background-color: white;
+    color: black;
+}
+ 
+.date{
+    background-color: white;
+    color: blue;
+}
+.card{
+    max-width: 300px;
+    margin: 1em auto;
+    color: white;
+    border-radius: 15px;
+    overflow: hidden;
+}
+header{
+    background-color: white;
+}
+main{
+    background-color: white;
+    color: black;
+}
