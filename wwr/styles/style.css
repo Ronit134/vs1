@@ -41,12 +41,13 @@ header {
 nav a {
     color: black;
     text-align: center;
-}*/
+    margin: 20px;
+}
 
 nav a:hover {
     background-color: rgb(26, 24, 24);
     color: aliceblue;
-}*
+}
 
 .book:hover {
     background-color: rgb(255, 255, 255);
