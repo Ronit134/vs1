@@ -22,3 +22,12 @@ body{
     background-color: rgb(100, 93, 93); ;
     text-align: center;
 }
+footer{ background-color: #6f7364;
+    padding: 25px 50px;
+    margin-top: 200px; 
+    display: flex;
+    justify-content: space-around;
+        align-items: center}
+footer p a {
+    text-decoration: none;
+}
