@@ -222,7 +222,7 @@ p {
 
 /* Logo image styling */
 img {
-  max-width: 80px; /* Limit logo image width */
+  /* max-width: 80px;  Limit logo image width */
   height: 80 px;
   width: 100px;
   display: block;
@@ -232,4 +232,7 @@ img {
 /* Color and fonts section styling */
 #colors-fonts {
   text-align: center;
+}
+#class {
+  width: 200px;
 }
