@@ -20,7 +20,7 @@ a:hover{
 }
 body{
     background-color: rgb(100, 93, 93); ;
-    text-align: center;
+    text-align: center
 }
 footer{ background-color: #6f7364;
     padding: 25px 50px;
@@ -30,4 +30,7 @@ footer{ background-color: #6f7364;
         align-items: center}
 footer p a {
     text-decoration: none;
+}
+nav{
+    height: 70px;
 }
