@@ -49,8 +49,16 @@ footer p a {
 }
 
 nav {
-    height: 70px;
+ padding: 1em 0;
+ display: flex;
+ justify-content: space-evenly;
+}
+nav a {
+    padding: 1em;
 }
 .social img {
     max-width: 80px;
+}
+main img{
+    box-shadow: 5px 5px 10px black;
 }
