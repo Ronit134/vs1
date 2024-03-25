@@ -22,6 +22,12 @@ body{
     background-color: rgb(100, 93, 93); ;
     text-align: center
 }
+body p{
+    width:70%;
+    margin:0 auto;
+    /* justify-self:center; */
+    /* text-align: center; */
+}
 footer{ background-color: #6f7364;
     padding: 25px 50px;
     margin-top: 200px; 
