@@ -61,4 +61,8 @@ nav a {
 }
 main img{
     box-shadow: 5px 5px 10px black;
+} 
+ body p {
+    margin-top:30px;
+    margin-bottom: 30px;
 }
